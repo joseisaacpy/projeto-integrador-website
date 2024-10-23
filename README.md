@@ -24,3 +24,6 @@ Este é um projeto de um website para uma **academia pública ao ar livre**, des
 
 - **Backend**:
   - (Em breve)
+
+![Equipamentos de uma academia pública ao ar livre, disponíveis para a prática de exercícios gratuitos](https://insidevip.com.br/public/storage/doc/photos/d9ba734626892418e40620bbd7c40ce4.jpg)
+Equipamentos de uma academia pública ao ar livre, disponíveis para a prática de exercícios gratuitos.
